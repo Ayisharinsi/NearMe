@@ -154,7 +154,6 @@ AREEKAL WATERFALLS.html
 </html>
 ```
 ## OUTPUT
-![alt text](kerala.png)
 ![alt text](<Screenshot 2024-03-21 222752.png>)
 ![alt text](<Screenshot 2024-03-21 220851.png>)
 ![alt text](<Screenshot 2024-03-21 220910.png>)
