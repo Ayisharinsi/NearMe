@@ -36,8 +36,7 @@ Execute the programs and publish them.
 <font color="purple"><b>AYISHA RINSI K (212223040022)</b></font>
 </h3>
 <center>
-<img src="kerala.png" usemap="#kerala" >
-<map name="kerala">
+
 <area shape="rectangle" coords="881,200,1060,279" href="hillpalace.html"  title="HILL PALACE MUSEUM">
 <area shape="rectangle" coords="1104,498,1303,559" href="KOCHAREEKKALCAVES.html" title="KOCHAREEKKAL CAVES">
 <area shape="rectangle" coords="1095,583,1253,705" href="AREEKAL WATERFALLS.html" title="AREEKAL WATERFALLS">
