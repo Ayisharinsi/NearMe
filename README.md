@@ -50,8 +50,6 @@ Execute the programs and publish them.
 </html>
 
 hillpalace.html
-<!DOCTYPE html>
-<html lang="en">
     <head>
         <title>HILL PALACE MUSEUM</title>
     </head>
