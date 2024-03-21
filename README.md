@@ -157,7 +157,7 @@ AREEKAL WATERFALLS.html
 </html>
 ```
 ## OUTPUT
-![alt text](<Screenshot 2024-03-21 222752.png>)
+![image](https://github.com/Ayisharinsi/NearMe/assets/148609304/eb3d5e4a-51bc-4e97-9afb-548e71282bb2)
 ![alt text](<Screenshot 2024-03-21 220851.png>)
 ![alt text](<Screenshot 2024-03-21 220910.png>)
 ![alt text](<Screenshot 2024-03-21 220937.png>)
