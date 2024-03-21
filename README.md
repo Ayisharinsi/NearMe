@@ -34,7 +34,7 @@ map.html
 </head>
 <body>
 <h1 align="center">
-<font color="green"><b>KERALA</b></font>
+<font color="black"><b>KERALA</b></font>
 </h1>
 <h3 align="center">
 <font color="purple"><b>AYISHA RINSI K (212223040022)</b></font>
@@ -57,7 +57,7 @@ hillpalace.html
     <head>
         <title>HILL PALACE MUSEUM</title>
     </head>
-    <body bgcolor="cyan">
+    <body bgcolor="pink">
     <h1 align="center">
     <font color="black"><b>KERALA</b></font>
     </h1>
@@ -78,7 +78,7 @@ WONDERLA AMUSEMENT.html
 <head>
 <title>WONDERLA AMUSEMENT</title>
 </head>
-<body bgcolor="pink">
+<body bgcolor="gray">
 <h1 align="center">
 <font color="black"><b>KERALA</b></font>
 </h1>
@@ -120,7 +120,7 @@ KOCHAREEKKALCAVES.html
 <head>
 <title>KOCHAREEKKAL CAVES</title>
 </head>
-<body bgcolor="gray">
+<body bgcolor="brown">
 <h1 align="center">
 <font color="black"><b>KERALA</b></font>
 </h1>
@@ -141,7 +141,7 @@ AREEKAL WATERFALLS.html
 <head>
 <title>AREEKAL WATERFALLS</title>
 </head>
-<body bgcolor="green">
+<body bgcolor="orange">
 <h1 align="center">
 <font color="black"><b>KERALA</b></font>
 </h1>
