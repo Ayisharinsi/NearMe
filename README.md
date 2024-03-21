@@ -25,6 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+```
 <head>
 <title>NATIVE PLACE</title>
 </head>
@@ -90,7 +91,6 @@ Wonderla Amusement Park in Kerala, situated in Kochi, is a renowned destination 
 </html>
 
 TIST.html
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -152,7 +152,7 @@ AREEKAL WATERFALLS.html
 </p>
 </body>
 </html>
-
+```
 ## OUTPUT
 ![alt text](kerala.png)
 ![alt text](<Screenshot 2024-03-21 222752.png>)
