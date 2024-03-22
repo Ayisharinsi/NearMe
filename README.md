@@ -1,4 +1,4 @@
-# Ex04 Places Around Me
+![kerala1](https://github.com/Ayisharinsi/NearMe/assets/148609304/1fd20dea-e2bc-491e-bfc5-208a637272e8)# Ex04 Places Around Me
 ## Date:21-03-2024
 
 ## AIM
@@ -157,12 +157,13 @@ AREEKAL WATERFALLS.html
 </html>
 ```
 ## OUTPUT
-![a](https://github.com/Ayisharinsi/NearMe/assets/148609304/b99e1c99-55bc-4b0f-837d-5d8b8c18bd9d)
-![b](https://github.com/Ayisharinsi/NearMe/assets/148609304/38d35661-94b4-4574-ad43-823db067fc7d)
-![hill](https://github.com/Ayisharinsi/NearMe/assets/148609304/d3e6ba08-4c5c-4097-b69e-c4d539582ab4)
-![koch](https://github.com/Ayisharinsi/NearMe/assets/148609304/bb2ebfb4-4567-4475-bc18-8cbc232dc33a)
-![tist](https://github.com/Ayisharinsi/NearMe/assets/148609304/cf5f90ca-00e2-4752-90d2-fa0bf052f69d)
-![wonder](https://github.com/Ayisharinsi/NearMe/assets/148609304/d230986c-1445-41d6-9c7a-ba78aeef950b)
+![kerala1](https://github.com/Ayisharinsi/NearMe/assets/148609304/9fa0dd4c-8dc7-48a0-82f5-1d526abc8f98)
+![kerala2](https://github.com/Ayisharinsi/NearMe/assets/148609304/cedb358d-3c1d-4b44-b9c2-270a96a59c80)
+![kerala3](https://github.com/Ayisharinsi/NearMe/assets/148609304/25668cbb-3743-41d6-af37-f13839a4918b)
+![kerala4](https://github.com/Ayisharinsi/NearMe/assets/148609304/6d564e19-0b63-482f-94d2-c1ed4d5bc8ec)
+![KERALA5](https://github.com/Ayisharinsi/NearMe/assets/148609304/8e165b5e-ceda-451e-b1c2-533987799af3)
+![kerala6](https://github.com/Ayisharinsi/NearMe/assets/148609304/5838c075-1632-4cb0-bc8c-833cee75c6af)
+
 
 
 ## RESULT
