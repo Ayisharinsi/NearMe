@@ -157,11 +157,13 @@ AREEKAL WATERFALLS.html
 </html>
 ```
 ## OUTPUT
-![image](https://github.com/Ayisharinsi/NearMe/assets/148609304/eb3d5e4a-51bc-4e97-9afb-548e71282bb2)
-![alt text](<Screenshot 2024-03-21 220851.png>)
-![alt text](<Screenshot 2024-03-21 220910.png>)
-![alt text](<Screenshot 2024-03-21 220937.png>)
-![alt text](<Screenshot 2024-03-21 220945.png>)
-![alt text](<Screenshot 2024-03-21 220954.png>)
+![a](https://github.com/Ayisharinsi/NearMe/assets/148609304/b99e1c99-55bc-4b0f-837d-5d8b8c18bd9d)
+![b](https://github.com/Ayisharinsi/NearMe/assets/148609304/38d35661-94b4-4574-ad43-823db067fc7d)
+![hill](https://github.com/Ayisharinsi/NearMe/assets/148609304/d3e6ba08-4c5c-4097-b69e-c4d539582ab4)
+![koch](https://github.com/Ayisharinsi/NearMe/assets/148609304/bb2ebfb4-4567-4475-bc18-8cbc232dc33a)
+![tist](https://github.com/Ayisharinsi/NearMe/assets/148609304/cf5f90ca-00e2-4752-90d2-fa0bf052f69d)
+![wonder](https://github.com/Ayisharinsi/NearMe/assets/148609304/d230986c-1445-41d6-9c7a-ba78aeef950b)
+
+
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
