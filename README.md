@@ -1,5 +1,5 @@
-![kerala1](https://github.com/Ayisharinsi/NearMe/assets/148609304/1fd20dea-e2bc-491e-bfc5-208a637272e8)# Ex04 Places Around Me
-## Date:21-03-2024
+# Ex04 Places Around Me
+## Date:22-03-2024
 
 ## AIM
 To develop a website to display details about the places around my house.
